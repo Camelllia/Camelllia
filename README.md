@@ -8,4 +8,5 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 </div>
 
-[![Camelllia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camelllia)](https://github.com/Camelllia/github-readme-stats)
+[![Camelllia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camelllia&show_icons=true&theme=tokyonight)](https://github.com/Camelllia/github-readme-stats)
+
