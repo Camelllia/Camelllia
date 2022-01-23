@@ -1,9 +1,3 @@
-<div align=center>
-  <h1>
-    (https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Kim%20SeungJin&fontSize=90)
-  </h1>
-</div>
-
 <div align=center><h1>📚 TECH STACKS</h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
