@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Kim%20SeungJin&fontSize=90)
+<div align=center>
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Kim%20SeungJin&fontSize=90)
+</div>
 
 <div align=center><h1>📚 TECH STACKS</h1></div>
 <div align=center>
