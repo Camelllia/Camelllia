@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Kim%20SeungJin&fontSize=90)
 
-![C++ Badge](https://img.shields.io/badge/C++-D14836?style=flat&logo=C++&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
