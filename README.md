@@ -1,6 +1,6 @@
 <div align=center>
   <h1>
-    ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Kim%20SeungJin&fontSize=90)
+    (https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Kim%20SeungJin&fontSize=90)
   </h1>
 </div>
 
