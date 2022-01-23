@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kim%20SeungJin&fontSize=90)
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/#00599C-배경색?style=plastic&logo=&logoColor=로고색상"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-#00599C?style=plastic&logo=로고&logoColor=000000"/></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
