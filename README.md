@@ -9,5 +9,6 @@
 </div>
 
 [![Camelllia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camelllia&show_icons=true&theme=tokyonight)](https://github.com/Camelllia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Camelllia)](https://github.com/Camelllia/github-readme-stats)
 
 
