@@ -1,4 +1,4 @@
-<div align=center><h1>📚 TECH STACKS</h1></div>
+<div align=center><h1>Techs that I've used</h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/-C%23-339933?style=flat-square&logo=Csharp&logoColor=white"/></a>
