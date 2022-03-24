@@ -12,5 +12,6 @@
 <div align=center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Camelllia&layout=compact)](https://github.com/Camelllia/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nestle7474)](https://solved.ac/nestle7474)
 
 </div>
