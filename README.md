@@ -20,8 +20,8 @@
   
 <h2 align="center">Other</h4>
 <p align="center">
-  <a href="https://rogong.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-D95C33?style=flat-square&logo=blog Pi&logoColor=white"/></a>&nbsp;
-<a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/CV-03C75A?style=flat-square&logo=email Pi&logoColor=white"/></a>&nbsp;
+  <a href="https://doshisha.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-D95C33?style=flat-square&logo=blog Pi&logoColor=white"/></a>&nbsp;
+  <a href="https://programmers.co.kr/pr/dahyun101107_6278"><img src="https://img.shields.io/badge/CV-03C75A?style=flat-square&logo=email Pi&logoColor=white"/></a>&nbsp;
 </p>
 
 <div align=center>
