@@ -20,8 +20,8 @@
   
 <h2 align="center">Other</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+  <a href="https://rogong.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-D95C33?style=flat-square&logo=blog Pi&logoColor=white"/></a>&nbsp;
+<a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/CV-03C75A?style=flat-square&logo=email Pi&logoColor=white"/></a>&nbsp;
 </p>
 
 <div align=center>
