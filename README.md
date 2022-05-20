@@ -17,6 +17,14 @@
 </p>
 
 <div align=center>
+  
+<h2 align="center">Other</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+</p>
+
+<div align=center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Camelllia&layout=compact)](https://github.com/Camelllia/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nestle7474)](https://solved.ac/nestle7474)
