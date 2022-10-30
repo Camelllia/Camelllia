@@ -20,6 +20,7 @@
 <h2 align="center">For Collaboration</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=for-the-badge&logo=Microsoft Teams&logoColor=white">
   
 </p>
 
