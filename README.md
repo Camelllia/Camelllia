@@ -17,6 +17,12 @@
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=mssql&logoColor=white"/>
 </p>
 
+<h2 align="center">For Collaboration</h4>
+<p align="center">
+  <img src="https://simpleicons.org/icons/jira.svg"/>Jira</a>
+  
+</p>
+
 <div align=center>
   
 <h2 align="center">Other</h4>
